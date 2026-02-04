@@ -37,4 +37,4 @@ git clone https://github.com/SRem-07/Portfolio-Beta.git
 ```
 Also ensure you have the required libraries:
 ``` bash
-pip install -r path/to/requirements.txt
+pip install -r requirements.txt
