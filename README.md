@@ -14,7 +14,7 @@ This project serves as a real-world integration test for the [LinReg Package](ht
 
 ## Methodology
 * **Data Acquisition:** 10 years of historical monthly adjusted closing prices for AAPL, TSLA, NVDA, AMD, and AMZN.
-* **Portfolio Construction:** Weughted returns based on portfolio allocation
+* **Portfolio Construction:** Weighted returns based on portfolio allocation
 * **Market Comparison:** Monthly returns of the S&P 500
 * **Regression:** Using the 'LinReg' package to perfom  OLS regression:
   * **X**: Market monthly returns
@@ -25,8 +25,8 @@ This project serves as a real-world integration test for the [LinReg Package](ht
   * QQ plot of residuals
 
 ## Key Results
-- **Portfolio Beta:** 1.57 (indicates portfolio retunrs are ~57% more volatile than the market)
-- **R-Squared:** 0.587 (explaines ~59% of variance)
+- **Portfolio Beta:** 1.57 (indicates portfolio returns are ~57% more volatile than the market)
+- **R-Squared:** 0.587 (explains ~59% of variance)
 
 ![plot](./images/portfolio_beta.png)
 
