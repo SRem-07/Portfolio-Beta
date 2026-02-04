@@ -4,7 +4,7 @@ This Jupyter Notebook calculates the beta of a portfolio of stocks using my cust
 ## Project Goal
 This notebook aims to determine the systematic risk, or Beta, of a stock portfolio relative to the S&P 500. 
 
-This project serves as a real-world integreation test for the [LinReg Package](https://github.com/SRem-07/Regression) which I created, moving beyond unit tests to real world financial data. 
+This project serves as a real-world integration test for the [LinReg Package](https://github.com/SRem-07/Regression) which I created, moving beyond unit tests to real world financial data. 
 
 ## Tech Stack
 * **Analysis:** Python (NumPy, Pandas)
